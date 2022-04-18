@@ -6,11 +6,11 @@ The purpose of World Weather Analysis is to add new functionality to the previou
 * The ability to choose four cities to create a travel itinerary.
 * A Google maps overlay with travel route between the cities on the itinerary, as well as markers with detailed information on the city.
 
-![image 1](../Vacation_Search/WeatherPy_vacation_map.png)
+![image 1](/Vacation_Search/WeatherPy_vacation_map.png)
 
-![image 2](../Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![image 2](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
-![image 3](../Vacation_Itinerary/WeatherPy_travel_map.png)
+![image 3](/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 
 
